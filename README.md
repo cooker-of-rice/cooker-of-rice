@@ -1,5 +1,5 @@
-### Hi there 👋
-# currently working on school project
+# Hi there 👋
+### currently working on school project
 ordering table
 
 
