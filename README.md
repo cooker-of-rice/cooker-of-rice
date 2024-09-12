@@ -8,5 +8,5 @@ ordering table
 
 
 
-*and then he said "its githubing time" and githubed all over the floor*
-\ *-Rice cooker*
+*and then he said "its githubing time" and githubed all over the floor*\
+*-Rice cooker*
