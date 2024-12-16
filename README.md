@@ -1,6 +1,5 @@
 # Hi there 👋
-### currently working on school project:
-ordering table
+### currently procrastinating
 
 
 
