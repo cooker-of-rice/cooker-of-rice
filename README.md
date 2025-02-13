@@ -1,11 +1,13 @@
 # Hi there 👋
-### currently procrastinating
+### currently working on:
+*order tablet*
+### unfininished:
+
+### on-hold:
+*weather report*
 
 
 
 
 
 
-
-*and then he said "its githubing time" and githubed all over the floor*\
-*-Rice cooker*
