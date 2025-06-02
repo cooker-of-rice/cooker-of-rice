@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here’s what I’m currently working on:  
 
 ## 🚀 Currently Working On  
-- **Serena** – still working on datasets (private rep)  
+- **Nova** – still working on datasets (private rep)  
 
 ## ⏳ In Progress
 - *(No active unfinished projects.)*  
