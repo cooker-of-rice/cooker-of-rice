@@ -10,5 +10,5 @@ Welcome to my GitHub profile! Here’s what I’m currently working on:
 
 ## 🛑 On Hold  
 - **Weather Report** – Paused for now, but will revisit soon!
-- **Order Tablet** – Improving functionality and performance  
+- **Order Tablet** – Dont feel like finishing it right now
 
