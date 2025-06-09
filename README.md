@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here’s what I’m currently working on:  
 
 ## 🚀 Currently Working On  
-- **Nova** –  finished training, implementing next
+- **Nova** –  resuming training after halucinatios
 
 ## ⏳ In Progress
 - *(No active unfinished projects.)*  
