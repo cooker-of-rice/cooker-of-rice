@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here’s what I’m currently working on:  
 
 ## 🚀 Currently Working On  
-- **Nova** –  resuming training after halucinatios
+- **The Gate Beneath The Houska** –  metroidvania game
 
 ## ⏳ In Progress
 - *(No active unfinished projects.)*  
